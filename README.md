@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pngkey.com/png/detail/263-2637109_companies-generate-a-massive-amount-of-data-from.png)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/free-vector/illustration-data-analysis-graph_53876-18131.jpg?w=2000)](https://rishavchanda.io)
 <h1 align="center">Hi there 👋, I'm Barakat</h1>
 <h3 align="center">I’m currently working on building my technical skills in Data Analysis</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/574faff6f8baf35e5da43485/1553914921320-JL7TJLMKYJ0H1JUXG5CY/Data-Inspect.gif">
