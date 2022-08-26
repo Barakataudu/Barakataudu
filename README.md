@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/c9/91/72/c99172c17b83d3c620b997858351b2a5.gif)](https://rishavchanda.io)
+[![MasterHead](https://jonmgomes.com/wp-content/uploads/2020/06/Comp_13.gif)](https://rishavchanda.io)
 <h1 align="center">Hi there 👋, I'm Barakat</h1>
 <h3 align="center">I’m currently working on building my technical skills in Data Analysis</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/574faff6f8baf35e5da43485/1553914921320-JL7TJLMKYJ0H1JUXG5CY/Data-Inspect.gif">
